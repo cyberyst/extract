@@ -11,4 +11,4 @@ zip.printdir()
 # extracting all the files 
 print('Extracting all the files now...') 
 zip.extractall() 
-print('Done!') 
+print('extract done!') 
